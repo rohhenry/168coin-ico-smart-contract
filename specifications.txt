@@ -1,0 +1,21 @@
+General Information:
+Token Name: 168 Token
+Token Symbol: 168
+Token Total Supply: 1,000,000
+Token Allocated to TokenManager: 650,000
+Token Allocated for ICO: 350,000
+
+ICO Information:
+Token ICO Minimum: 0.01 Ether
+Token ICO Price: 1,0000 per Ether
+Token ICO Gas Limit: 60,000
+
+Address Information:
+Token Contract Address: 0xb0991d65980Bd9aF6109f9e6b38E862E91d873BF
+TokenManager Address: 0xE5Baefda5fC361034A87E76C423c964784ddEA08
+
+Compilation Information:
+Solidity Version Compatability: 0.4.16
+Compiler Version: 0.4.19+commit.c4cbbb05
+Optimizer: None
+Gas Limit: 1,200,000
